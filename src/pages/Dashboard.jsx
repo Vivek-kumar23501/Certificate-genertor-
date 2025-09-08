@@ -60,10 +60,11 @@ export default function Dashboard() {
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
-          fontFamily: "Georgia, serif",
-          fontSize: "48px",
-          color: "#2c3e50",
+          fontFamily: "Canva Sans, serif",
+          fontSize: "32px",
+          color: "black",
           textAlign: "center",
+          
           padding: "50px"
         }}
       >
